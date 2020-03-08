@@ -3,3 +3,5 @@
 * Anh, Birhtan, Pratana still need to work on the download feature.
 
 * Sean is editing the deliverable 2 documentaion, the missing part is the detail work analysis of the download feature and the Technical commentary about that feature.
+
+* Everyone should keep in touch in the next 3 days, and a meeting will be held on Tuesday.
