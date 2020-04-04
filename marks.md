@@ -57,7 +57,7 @@
 ### Deliverable 2
 
 | Criteria | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | Bugs Intro (10) | 10 |  
 | Choice of bugs (5) | 5 |  
 | Correctness (25) | 17 |  
@@ -72,7 +72,7 @@
 ### Interview 2
 
 | Question | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | Summary (1) | 1 |  
 | Demo 1 (2) | 2 |  
 | Explain 1 (1) | 1 |  
@@ -89,20 +89,20 @@
 ### Deliverable 3
 
 | Criteria | Grade |
-| :-------: | :-----: |
-| Issue Description (10) |  |  
-| Implementation Plans (10) |  |  
-| Test (5) |  |  
-| Architecture (10) |  |
-| Presentation (10) |  |  
+| :------- | :-----: |
+| Issue Description (10) | 10 |  
+| Implementation Plans (10) | 10 |  
+| Test (5) | 5 |  
+| Architecture (10) | 10 |
+| Presentation (10) | 5 |  
 
-**Total (45)**:   
-**Comments**:   
+**Total (45)**: 40  
+**Comments**: Several grammer and spelling issues. Some examples: "During the team meeting we have, and we decided to look into the following issues of Firefox-Focus:", "which is ten executed to display a page of results".   
 
 ### Interview 3
 
 | Question | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | First Feature (2) | 2 |  
 | Second Feature (2) | 2 |  
 | Explain Reasoning (1) | 1 |  
