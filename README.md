@@ -16,6 +16,9 @@
   * [Process Outcomes](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%202/Process%20Outcomes.pdf)
 * Deliverable 3
   * [Deliverable 3](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%203/Deliverable%203.pdf)
+* Deliverable 4
+  * [Deliverable 4](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%204/Deliverable%204.pdf)
+  * [Process Outcomes](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%204/Process%20Outcomes.pdf)
   
 ## Quick Demo
 ![Quick Demo](https://github.com/CSCD01/team_07-project/blob/master/Deliverables/Deliverable%204/demo.gif)
