@@ -118,16 +118,16 @@
 
 | Criteria | Grade |
 | :------- | :-----: |
-| Implementation (40) |  |  
-| Testing (20) |  |  
-| User Guide(s) (10) |  |  
-| Design Document (10) |  |
-| Process (20) |  |  
-| Compared with other teams (10) |  |  
-| Presentation (10) |  |  
+| Implementation (40) | 40 |  
+| Testing (20) | 20 |  
+| User Guide(s) (10) | 10 |  
+| Design Document (10) | 10 |
+| Process (20) | 20 |  
+| Compared with other teams (10) | ? |  
+| Presentation (10) | 10 |  
 
-**Total (120)**:   
-**Comments**:   
+**Total (120)**: 110 + ?   
+**Comments**: Great work  
 
 ### Interview 4
 
